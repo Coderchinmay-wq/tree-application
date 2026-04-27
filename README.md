@@ -29,3 +29,8 @@ step 9: Stop
 | Insert    | O(log n) avg / O(n) worst |
 | Traversal | O(n)                      |
 | Search    | O(log n) avg              |
+### Vaild Output:
+<img width="1456" height="753" alt="Screenshot 2026-04-21 121505" src="https://github.com/user-attachments/assets/d49b9260-6376-4d98-ada5-b918dca53484" />
+
+### Invaild Output:
+<img width="1484" height="774" alt="Screenshot 2026-04-21 121632" src="https://github.com/user-attachments/assets/3ccd703c-6b30-4aca-bb77-839937c1e62c" />
